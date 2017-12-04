@@ -1,1 +1,2 @@
-H
+Predicting the hydro productin using the following inputs:
+  Rainfall, Month, Hour, Temp, hydro-1, hydro-7, Wind
